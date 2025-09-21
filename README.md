@@ -1,27 +1,27 @@
-# Tripleten web_project_homeland
+# Homeland
 
-Proyecto 5: TripleTen – Web Project Homeland
+Fifth Project of TripleTen University
 
-Sitio web de una galería de arte creada para TripleTen, donde los integrantes del equipo presentan una obra inspirada en su lugar de origen.
-El desarrollo se realizó con HTML y CSS, aplicando:
+The website was created using the following HTML, CSS, GIT/GITHUB topics:
 
--HTML5 semántico para una estructura clara y accesible.
--Flexbox para la disposición de los elementos.
--Técnicas de posicionamiento para un diseño ordenado.
--Metodología BEM para una organización coherente del código.
--Diseño responsive que se adapta a distintos tamaños de pantalla.
+- Working with Design Specs
 
-Puedes ingresar aqui: https://leninaguitech.github.io/web_project_homeland
+  - Creating the Stages of a Digital Product
+  - Introduction to Figma
+  - Pages → Frames → Groups → Elements
+  - Working with Margins, Text, and Colors
+  - Exporting Elements
 
-Project 5: TripleTen – Web Project Homeland
+- Responsive Design vs. Adaptive Design
 
-An art gallery website created for TripleTen, where team members present work inspired by their homeland.
-The website was developed using HTML and CSS, applying:
+  - Developing Interfaces for Different Devices
+  - Adding Fonts to a Web Page with @font-face
 
-- Semantic HTML5 for a clear and accessible structure.
-- Flexbox for the layout of elements.
-- Positioning techniques for an organized design.
-- BEM methodology for coherent code organization.
-- Responsive design that adapts to different screen sizes.
+- Advanced Git
+  - Working Quickly in the Command Line
+  - Copying and Moving Files
+  - Viewing and Editing Files Using the Command Prompt
+  - Logging and Hashing
+  - Inspecting Changes: Git Diff
 
 You can access it here: https://leninaguitech.github.io/web_project_homeland
